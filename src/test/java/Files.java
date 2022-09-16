@@ -24,7 +24,6 @@ public class Files {
     String pdfName = "examplepdf.pdf";
     String xlsName = "examplexls.xls";
 
-
     private InputStream getFileFromArchive(String fileName) throws Exception {
         File zipFile = new File("src/test/resources/" + zipName);
         ZipFile zip = new ZipFile(zipFile);
