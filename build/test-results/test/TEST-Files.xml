@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Files" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-09-16T15:32:32" hostname="e-tokorev" time="1.148">
+  <properties/>
+  <testcase name="CSV read" classname="Files" time="0.125"/>
+  <testcase name="PDF read" classname="Files" time="0.546"/>
+  <testcase name="zipXLS()" classname="Files" time="0.293"/>
+  <testcase name="JsonParser" classname="Files" time="0.181"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

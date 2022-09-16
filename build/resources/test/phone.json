@@ -1,0 +1,11 @@
+{
+  "name": "Iphone",
+  "memory": 64,
+  "camera": "15mp",
+  "id": "199066",
+  "apps": [
+    "telegram",
+    "maps",
+    "youtube"
+  ]
+}
