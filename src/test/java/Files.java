@@ -29,7 +29,7 @@ public class Files {
         ZipFile zip = new ZipFile(zipFile);
         return zip.getInputStream(zip.getEntry(fileName));
     }
-
+    @DisplayName("XLS read")
     @Test
     void zipXLS() throws Exception {
         try (InputStream xlsFileStream = getFileFromArchive(xlsName)) {
